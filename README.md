@@ -1,11 +1,5 @@
 ## About Me  
-I'm a **quantum computing researcher** specializing on logical algorithms for NISQ devices. 
-
-## Research Interests  
-- 🔹 **Neutral Atom Quantum Computing** 
-- 🔹 **Quantum Error Correction**
-- 🔹 **Quantum Circuit Simulation**
-- 🔹 **Wigner's Friend**
+I am a C.S. Ph.D. student interested in Quantum Simulation, Quantum Error Correction and Autoresearch methods. I enjoy self hosting LLMs and enquire about fundamental questions in theoretical physics.
 
 
 <!--
